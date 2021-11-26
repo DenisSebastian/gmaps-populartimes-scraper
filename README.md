@@ -29,7 +29,7 @@ Also, it can be saved as a JSON file
 ```
 poptimes.to_json(output)
 ```
-## From Comand Line
+## from Comand Line
 You can run `./poptime.py -h` to get:
 ```
 usage: poptimes.py [-h] -u URL [-o [OUTPUT]] [--chromedriver [CHROMEDRIVER]]
@@ -50,8 +50,8 @@ I have tested this only on Linux. I hope it work on other systems, but i really 
 
 # To-do
 There are somethings that i think culd be added:
-[x] cli usage
-[] The posibility to get the info for a plenty of URL's (may be in a csv, as the [referenced repo](https://github.com/philshem/gmaps_popular_times_scraper))
+- [x] cli usage
+- [ ] The posibility to get the info for a plenty of URL's (may be in a csv, as the [referenced repo](https://github.com/philshem/gmaps_popular_times_scraper))
 
 ---
 
@@ -102,6 +102,6 @@ optional arguments:
 ``` 
 # Por hacer
 Algunas cosas que creo que se podrian añadir:
-[x] uso desde la linea de comandos
-[] la posibilidad de obtener la info de muchas URL's (probablemente desde un csv, como en [el repositorio mencionado antes](https://github.com/philshem/gmaps_popular_times_scraper))
+- [x] uso desde la linea de comandos
+- [ ] la posibilidad de obtener la info de muchas URL's (probablemente desde un csv, como en [el repositorio mencionado antes](https://github.com/philshem/gmaps_popular_times_scraper))
 
