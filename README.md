@@ -7,6 +7,7 @@ This repo is inspired on  https://github.com/philshem/gmaps_popular_times_scrape
 # Requirements
 - Selenium
 - BeautifulSoup
+
 Them can be installed with `pip install -r requirements.txt`
 
 You also need `chromedriver` to get this to work. It can be found [here](https://chromedriver.chromium.org/downloads). Also, this [thread](https://stackoverflow.com/questions/49788257/what-is-default-location-of-chromedriver-and-for-installing-chrome-on-windows) can be helpful to get the `chromedriver` path.
@@ -54,15 +55,17 @@ There are somethings that i think culd be added:
 - [ ] The posibility to get the info for a plenty of URL's (may be in a csv, as the [referenced repo](https://github.com/philshem/gmaps_popular_times_scraper))
 
 ---
+---
 
 Scrapea la concurrencia de un Lugar desde Google Maps
 
 Este repo está inspirado en https://github.com/philshem/gmaps_popular_times_scraper el cual no me funcionó.
 (aparentemente porque en ese repo rescatan una sección del html que ya no aparece en el html de Google Maps)
 
-# Requirimientos
+# Requerimientos
 - Selenium
 - BeautifulSoup
+
 Estos se pueden instalar con `pip install -r requirements.txt`
 
 También es necesario  `chromedriver` para que esto funcione. Puede ser encontrado [aqui](https://chromedriver.chromium.org/downloads). También, este [hilo](https://stackoverflow.com/questions/49788257/what-is-default-location-of-chromedriver-and-for-installing-chrome-on-windows) puede ser util para saber la ruta de `chromedriver`.
